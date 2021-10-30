@@ -23,3 +23,6 @@
 <h2>The Fourth part: Other documents. </h2>
 <b> .idea and .DS_Store / these files do not exist after download.</b>
 <p> This is because it was uploaded from local. </p>
+
+<h3>Group members: </h3>: Alecia,Chloe,Harry,Kelvin,Sharon,Yun.
+<h5>The contributions are in no particular order.</h5>
