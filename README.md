@@ -25,4 +25,4 @@
 <p> This is because it was uploaded from local. </p>
 
 <h2>Group members: </h2> <li><b>Alecia,Chloe,Harry,Kelvin,Sharon,Yun.</b></li>
- <li><p>The contributions are in no particular order.</p></li>
+ <li>The contributions are in no particular order.</li>
