@@ -4,7 +4,7 @@
 <br>(Application_Kelvin), completed by Hui and Kelvin.<br/>
 <h1>Types of algorithms. </h1>
 <ul>
-  <li><b>We use 11 algorithms</b>: Logistic regression, Bagging Classifier, KNN, SVM, AdaBoost, Random Forest, Gradient Boosting, Extra Tree, Decision Tree, XGBoost, GaussianNB.
+  <li><b>We used 11 algorithms</b>: Logistic regression, Bagging Classifier, KNN, SVM, AdaBoost, Random Forest, Gradient Boosting, Extra Tree, Decision Tree, XGBoost, GaussianNB.
   </li>
  </ul>
 </p>
