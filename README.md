@@ -3,6 +3,24 @@
 <h2>The first part: the website application part. </h2>
 <br><p> (Application_Kelvin), completed by Hui and Kelvin.</p><br/>
 
+<h1>Types of algorithms. </h1>
+<ul>
+  <li><b>We use 11 algorithms</b>: Logistic regression, Bagging Classifier, KNN, SVM, AdaBoost, Random Forest, Gradient Boosting, Extra Tree, Decision Tree, XGBoost, GaussianNB.
+  </li>
+ </ul>
+</p>
+
+
+
+
+
+
+<h2>The Section part: Core algorithms part. </h2>
+
+
+
+
+
 
 
 <b> .idea and .DS_Store / these files do not exist after download.</b>
