@@ -1,8 +1,7 @@
 # Capstone_CS1_2
 <h1>The whole repository is divided into four parts. </h1>
-<br>
 <h2>The first part: the website application part. </h2>
-<p> (Application_Kelvin), completed by Hui and Kelvin.</p><br/>
+<br><p> (Application_Kelvin), completed by Hui and Kelvin.</p><br/>
 
 
 
