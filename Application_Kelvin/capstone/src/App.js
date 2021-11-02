@@ -127,6 +127,7 @@ export default function Checkout() {
   const handleZero = () => {
     setLoading(false);
     setActiveStep(0);
+    window.location.reload(false);
   };
 
   const handleSubmit = () => {
